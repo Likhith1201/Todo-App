@@ -34,17 +34,20 @@ It includes both **manual testing artifacts** and a **Playwright automation suit
 
 ## Project Structure
 
-/todo-app
-├─ index.html
-├─ style.css
-├─ app.js
+Todo-App/
+├─ pages/
+│ └─ todoPage.js
+├─ screenshots/
 ├─ tests/
-├─ todo.spec.js
-└─ todoPage.js
+│ └─ todo.spec.js
+├─ .gitignore
+├─ README.md
+├─ app.js
+├─ index.html
+├─ package-lock.json
 ├─ package.json
 ├─ playwright.config.js
-├─ screenshots/
-└─ README.md
+└─ style.css
 
 
 
