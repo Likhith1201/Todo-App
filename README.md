@@ -59,7 +59,7 @@ It includes both **manual testing artifacts** and a **Playwright automation suit
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Todo-App.git
+   git clone https://github.com/Likhith1201/Todo-App.git
 
 
 
