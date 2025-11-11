@@ -1,5 +1,3 @@
-// pages/todoPage.js
-
 class TodoPage {
     constructor(page) {
         this.page = page;
