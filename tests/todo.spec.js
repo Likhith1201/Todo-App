@@ -1,4 +1,3 @@
-// tests/todo.spec.js
 const { test, expect } = require('@playwright/test');
 const { TodoPage } = require('../pages/todoPage');
 
